@@ -4,13 +4,15 @@
 # FastAPI ToDo API
 
 This is a basic RESTful API built with FastAPI and SQLite, which allows users to manage a simple "To-Do List" application.
-
+```
+```
 ## Features
 
 - Create, read, update, and delete todo items
 - Store todo items in a SQLite database
 - Automatic Swagger documentation at `/docs`
-
+```
+```
 ## Installation
 
 1. Clone the repository:
